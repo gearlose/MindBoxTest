@@ -1,0 +1,6 @@
+E:\TestovoeZadanie\CalcAreaLib\CalcAreaLib\bin\Debug\CalcAreaLib.dll
+E:\TestovoeZadanie\CalcAreaLib\CalcAreaLib\bin\Debug\CalcAreaLib.pdb
+E:\TestovoeZadanie\CalcAreaLib\CalcAreaLib\obj\Debug\CalcAreaLib.csproj.AssemblyReference.cache
+E:\TestovoeZadanie\CalcAreaLib\CalcAreaLib\obj\Debug\CalcAreaLib.csproj.CoreCompileInputs.cache
+E:\TestovoeZadanie\CalcAreaLib\CalcAreaLib\obj\Debug\CalcAreaLib.dll
+E:\TestovoeZadanie\CalcAreaLib\CalcAreaLib\obj\Debug\CalcAreaLib.pdb
